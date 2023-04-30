@@ -23,7 +23,7 @@ Combining my guitar specialization from Berklee College of Music with my growing
 
 **Languages and Tools:** 
 
-![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
+![React](https://img.shields.io/badge/-React-black?logo=react&style=social)&nbsp;&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring%20Framework-black?logo=spring&style=social)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
