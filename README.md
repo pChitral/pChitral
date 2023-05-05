@@ -42,7 +42,14 @@ Combining my guitar specialization from Berklee College of Music with my growing
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 ![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
 
-![Chitral's Github Stats](https://github-readme-stats.vercel.app/api?username=pChitral&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pChitral&hide=TeX&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pChitral&count_private=true&show_icons=true&include_all_commits=true" width="32%" alt="Chitral's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pChitral&hide=TeX&layout=compact" width="24.4%" alt="Chitral's Top Languages">
+</p>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=pChitral.pChitral)
+<p align="center">
+  Visitors
+  <br/>
+  
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=pChitral.pChitral" alt="Visitor Badge">
+</p>
