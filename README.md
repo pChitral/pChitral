@@ -44,7 +44,7 @@ Combining my guitar specialization from Berklee College of Music with my growing
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pChitral&count_private=true&show_icons=true&include_all_commits=true" width="58%" alt="Chitral's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pChitral&hide=TeX&layout=compact" width="44%" alt="Chitral's Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pChitral&hide=TeX&layout=compact" width="58%" alt="Chitral's Top Languages">
 </p>
 
 <p align="center">
