@@ -43,8 +43,8 @@ Combining my guitar specialization from Berklee College of Music with my growing
 ![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pChitral&count_private=true&show_icons=true&include_all_commits=true" width="32%" alt="Chitral's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pChitral&hide=TeX&layout=compact" width="24.4%" alt="Chitral's Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=pChitral&count_private=true&show_icons=true&include_all_commits=true" width="42%" alt="Chitral's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pChitral&hide=TeX&layout=compact" width="32%" alt="Chitral's Top Languages">
 </p>
 
 <p align="center">
