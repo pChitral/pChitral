@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
 
-Hello, my name is [Chitral Patil](https://chitralpatil.propael.com/) and I am Entrepreneurial AI/ML Software Engineer with a foundation in computer engineering, currently pursuing master's in Data Science at [SUNY Buffalo](https://www.buffalo.edu/). Co-founder of [Propael](propael.com), a game-changing job application tool, with a rich background in Silicon Valley startups and large-scale data pipeline architecture.
+Hello, I am [Chitral Patil](https://chitralpatil.propael.com/) and I am Entrepreneurial AI/ML Software Engineer with a foundation in computer engineering, currently pursuing master's in Data Science at [SUNY Buffalo](https://www.buffalo.edu/). Co-founder of [Propael](propael.com), a game-changing job application tool, with a rich background in Silicon Valley startups and large-scale data pipeline architecture.
 
 In the heart of Silicon Valley's dynamic startup ecosystem, I've carved a niche for myself as a forward-thinking Data Scientist and Entrepreneur. My journey began during my undergraduate studies in computer engineering, where I picked elective subjects that revolved around data science like Machine Learning, NLP, Artificial Intelligence & Soft Computing, Big Data & Analytics, and Data Warehousing & Mining. Motivated by these experiences, I am now pursuing a master's degree in data science from the University at Buffalo.
 
